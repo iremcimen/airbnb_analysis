@@ -126,8 +126,8 @@ Boxplot analysis reveals outliers in review frequency, helping identify highly a
 
 ## 🛠 Tools & Libraries
 - Python
-- Pandas
 - NumPy
+- Pandas
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
